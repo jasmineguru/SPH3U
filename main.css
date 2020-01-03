@@ -37,9 +37,19 @@ h2{
   padding-right:5px;
   padding-left: 5px;
   padding-bottom: 2px;
-  padding-top: 2px;
+  padding-top: 6px;
 }
 
+h3{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-weight: 250;
+margin: 5%;
+padding-right:10px;
+padding-left: 10px;
+padding-bottom: 3px;
+padding-top: 4px;
+}
 .rgimg{
 
   padding: 20px;
